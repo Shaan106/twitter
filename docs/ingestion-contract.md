@@ -70,3 +70,8 @@ npm run ingest -- /absolute/path/to/payload.json
 ```
 
 The script reads `TRACKER_URL`, `TRACKER_INGEST_TOKEN`, and the optional private-Sites `SITES_ACCESS_TOKEN` from the process or `.env.local`. Confirm the result with `GET /api/health`, then inspect `GET /api/state`.
+
+```bash
+npm run ingest -- --state
+npm run ingest -- --health
+```
