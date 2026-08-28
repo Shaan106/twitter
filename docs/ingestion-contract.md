@@ -69,4 +69,4 @@ Submit a payload with:
 npm run ingest -- /absolute/path/to/payload.json
 ```
 
-The script reads `TRACKER_URL` and `TRACKER_INGEST_TOKEN` from the process or `.env.local`. Confirm the result with `GET /api/health`, then inspect `GET /api/state`.
+The script reads `TRACKER_URL`, `TRACKER_INGEST_TOKEN`, and the optional private-Sites `SITES_ACCESS_TOKEN` from the process or `.env.local`. Confirm the result with `GET /api/health`, then inspect `GET /api/state`.

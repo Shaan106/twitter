@@ -37,6 +37,10 @@ const token =
   process.env.TRACKER_INGEST_TOKEN ||
   savedEnvironment.TRACKER_INGEST_TOKEN ||
   "";
+const siteAccessToken =
+  process.env.SITES_ACCESS_TOKEN ||
+  savedEnvironment.SITES_ACCESS_TOKEN ||
+  "";
 const payload = JSON.parse(await readFile(path.resolve(filePath), "utf8"));
 
 const response = await fetch(new URL("/api/ingest", baseUrl), {
@@ -44,6 +48,9 @@ const response = await fetch(new URL("/api/ingest", baseUrl), {
   headers: {
     "Content-Type": "application/json",
     ...(token ? { Authorization: `Bearer ${token}` } : {}),
+    ...(siteAccessToken
+      ? { "OAI-Sites-Authorization": `Bearer ${siteAccessToken}` }
+      : {}),
   },
   body: JSON.stringify(payload),
 });
