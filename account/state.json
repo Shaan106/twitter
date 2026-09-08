@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "account": {
+    "handle": "Stochastic_rat",
+    "profile_url": "https://x.com/Stochastic_rat",
+    "former_handle": "Shaanppp",
+    "confirmed_by_user_on": "2026-09-07",
+    "display_name": "Stochastic Rat",
+    "bio": "The control group has asked to leave.\nAI-assisted comedy.",
+    "avatar": "account/assets/stochastic-rat-avatar.png",
+    "rebrand_status": "name_bio_avatar_verified",
+    "website_removal_status": "verified_removed"
+  },
+  "mode": "research_and_drafts",
+  "publishing_connection": null,
+  "public_engagement_enabled": false,
+  "mode_reason": "User asked to avoid X suspension. X prohibits automated likes and non-API website automation; AI reply bots require X approval. Recurring publication awaits a supported connection.",
+  "baseline": {
+    "observed_date": "2026-09-07",
+    "timezone": "America/Los_Angeles",
+    "followers": 1,
+    "following": 19,
+    "posts": 0
+  },
+  "schedule": {
+    "timezone": "America/Los_Angeles",
+    "local_times": ["09:00", "18:00"],
+    "target_minutes": 20,
+    "max_minutes": 25,
+    "status": "ACTIVE",
+    "automation_id": "stochastic-rat-editorial-sessions"
+  },
+  "last_session": "2026-09-07-setup",
+  "completed_scheduled_slots": [],
+  "published_posts": [],
+  "pending_actions": [
+    "Choose and connect an X-supported publishing route before unattended posting"
+  ]
+}
