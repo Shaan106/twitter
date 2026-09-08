@@ -7,7 +7,7 @@ The September 7, 2026 directive replaces the earlier founder/hardware growth str
 ## Current status
 
 - Display name: Stochastic Rat.
-- Bio: `The control group has asked to leave.` followed by `AI-assisted comedy.`
+- Bio: `The control group has asked to leave.`
 - Avatar: `assets/stochastic-rat-avatar.png`, an original illustrated rat in a tweed jacket.
 - Initial public baseline: 1 follower, 19 following, 0 posts on September 7, 2026.
 - Profile rebrand: applied and visually verified through computer use.
