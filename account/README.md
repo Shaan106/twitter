@@ -15,7 +15,8 @@ The September 7, 2026 directive establishes an original comedy account. The late
 - Standing user permission: independently choose content, schedule/publish posts, select relevant follows and replies, and pursue broader account growth. No item-by-item approval is needed; actual actions still depend on supported capabilities and platform restrictions.
 - Current method: computer-use research, topical drafting, X's native scheduler, and selective relevant follows. The former API-connection prerequisite for scheduling originals is superseded. Replies, likes, reposts, Quote Posts, and DMs remain disabled in the active routine.
 - Rejected post: RAT-007's September 8 schedule was cancelled and X confirmed it was saved as a draft. Do not reschedule it.
-- Replacement: topical AI-testing joke RAT-009, sourced to Prime's September 7 post, confirmed in X's Scheduled tab for September 8 at 9:15 a.m. Pacific. Not yet published.
+- Replacement: topical AI-testing joke RAT-009, sourced to Prime's September 7 post, last confirmed in X's Scheduled tab for September 8 at 9:15 a.m. Pacific. Publication has not yet been verified.
+- September 8 morning access: the Mac was locked, blocking the pre-publication check. Manual unlock is required for computer use. No new X action was taken; publication must be verified after access returns. The blocked attempt does not count as a completed editorial slot.
 - Reading feed: 18 relevant project follows individually verified, including 12 added in the latest expansion; 37 following in total. Six was a starting set, not a ceiling. See `READING-LIST.md`. No replies or likes have been sent.
 - GitHub sync: scoped account work may be committed and pushed without per-push approval to `git@github.com:Shaan106/twitter.git`. The latest directive supersedes the old local-commit-only instruction.
 

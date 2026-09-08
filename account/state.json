@@ -81,7 +81,13 @@
       "receipt": "Matching exact text in X Scheduled tab: Will send on Tue, Sep 8, 2026 at 9:15 AM",
       "ui_timezone": "Pacific Daylight Time",
       "queue_url": "https://x.com/compose/post/unsent/scheduled",
-      "verified_at_approximately": "2026-09-08T04:31:00Z"
+      "verified_at_approximately": "2026-09-08T04:31:00Z",
+      "prepublication_check": {
+        "attempted_at_approximately": "2026-09-08T16:06:00Z",
+        "status": "blocked_mac_locked",
+        "current_queue_and_publication_verified": false,
+        "note": "Last scheduling receipt remains historical evidence only. Mac must be manually unlocked before computer-use reconciliation; do not resubmit."
+      }
     }
   ],
   "baseline": {
@@ -101,6 +107,24 @@
   },
   "last_session": "2026-09-07-session-01",
   "completed_scheduled_slots": [],
+  "scheduled_session_attempts": [
+    {
+      "id": "2026-09-08-am-01",
+      "slot": "2026-09-08T09:00:00-07:00",
+      "started_at": "2026-09-08T16:04:57Z",
+      "stopped_at_approximately": "2026-09-08T16:06:00Z",
+      "status": "blocked_mac_locked",
+      "external_x_writes": 0,
+      "scheduled_slot_completed": false,
+      "log": "account/logs/2026-09-08-am-01-blocked.md"
+    }
+  ],
+  "browser_access": {
+    "status": "blocked_mac_locked",
+    "observed_at_approximately": "2026-09-08T16:06:00Z",
+    "required_action": "User manually unlocks the Mac",
+    "message": "The Mac is locked and automatic unlock could not unlock it. Ask the user to unlock the Mac manually before continuing."
+  },
   "completed_manual_runs": [
     {
       "id": "2026-09-07-manual-01",
@@ -135,7 +159,8 @@
   "published_posts": [],
   "pending_actions": [
     "RAT-007 is cancelled and rejected; never reschedule it",
-    "RAT-009 is scheduled for 2026-09-08T16:15:00Z; recheck source freshness in the morning and record a public URL only after actual publication",
+    "Manually unlock the Mac before resuming computer use; the September 8 morning attempt was blocked and is not a completed editorial slot",
+    "RAT-009 was last confirmed scheduled for 2026-09-08T16:15:00Z; the pre-publication check was blocked. Reconcile the native queue and actual public profile after unlock before any submission; record a public URL only after observing publication",
     "Use current tech/startup sources and keep selective follows separate from disabled reply/like/DM actions"
   ]
 }
