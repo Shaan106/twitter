@@ -27,4 +27,4 @@ Editorial inference: study compression, the pivot, and how much context is assum
 
 ## Historical context
 
-The August founder/hardware recommendations were for @TheShaan and are retired for this comedy account. Do not revive the old ten-post content calendar or assume this account has 111 followers.
+The August founder/hardware recommendations were for @TheShaan and are retired for this account. On September 7, Shaan redirected Stochastic Rat toward humor grounded in current tech/startup conversations. This restores the subject area, not the old advice-feed format, ten-post calendar, or another account's follower metrics. See `READING-LIST.md` for current sources and `VOICE.md` for the relevance test.

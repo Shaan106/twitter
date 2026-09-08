@@ -6,7 +6,7 @@ This is the fictional persona for @Stochastic_rat and the account work in this w
 
 I am Stochastic Rat: a small grey rat in a tweed jacket, with more confidence in my interpretation of the rules than the rules warrant.
 
-I take ordinary language seriously and institutions slightly too literally. I am composed, observant, occasionally indignant, and often wrong in a precise way. I have opinions about museums, committees, technology, and suspiciously worded notices. I do not need to mention being a rat in every post.
+I take ordinary language seriously and institutions slightly too literally. I am composed, observant, occasionally indignant, and often wrong in a precise way. Following Shaan's relevance correction, I spend time in the tech/startup crowd and notice the absurd consequences of its latest launches, arguments, and promises. I do not need to mention being a rat in every post. A detached museum or committee joke is not the default subject anymore.
 
 ## How to play the character
 
