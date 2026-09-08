@@ -17,7 +17,7 @@ The September 7, 2026 directive replaces the earlier founder/hardware growth str
 ## Read at the start of every session
 
 1. `state.json` for account identity, publication mode, and schedule.
-2. `VOICE.md` for editorial judgment.
+2. `IDENTITY.md` for the fictional rat persona, then `VOICE.md` for editorial judgment.
 3. `OPERATING.md` for the session routine and platform restrictions.
 4. `QUEUE.md` and the latest file in `logs/` for continuity.
 
@@ -25,6 +25,7 @@ Keep confirmed public actions separate from drafts and plans. The workspace has 
 
 ## Files
 
+- `IDENTITY.md`: the user-approved fictional rat persona and in-character banter.
 - `VOICE.md`: the original voice and editing rules.
 - `OPERATING.md`: repeatable 15–25 minute workflow.
 - `QUEUE.md`: drafts, selections, and publication receipts.
