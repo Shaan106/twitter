@@ -13,7 +13,8 @@ The September 7, 2026 directive replaces the earlier founder/hardware growth str
 - Profile rebrand: applied and visually verified through computer use.
 - Recurring editorial sessions: active at 9 a.m. and 6 p.m. America/Los_Angeles, target 20 minutes each. The local machine must be awake with the Codex desktop app running. See `state.json` for the scheduler ID.
 - Standing user permission: independently choose content, schedule/publish posts, select relevant follows and replies, and pursue broader account growth. No item-by-item approval is needed; actual actions still depend on supported capabilities and platform restrictions.
-- Unattended publication and engagement: paused pending an X-supported publishing route. No original posts, replies, follows, or likes have been sent by this project.
+- Current method: computer-use drafting and X's native scheduler, explicitly chosen by Shaan after the platform-risk explanation. The former API-connection prerequisite for scheduling originals is superseded. Public engagement remains disabled in this narrower workflow.
+- First scheduled original: RAT-007, September 8, 2026 at 9:15 a.m. Pacific Daylight Time. X confirmed scheduling; publication has not yet occurred. No replies, follows, or likes have been sent by this project.
 - GitHub sync: scoped account work may be committed and pushed without per-push approval to `git@github.com:Shaan106/twitter.git`. The latest directive supersedes the old local-commit-only instruction.
 
 ## Read at the start of every session

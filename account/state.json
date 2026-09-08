@@ -18,12 +18,31 @@
     "scopes": ["original_posts", "scheduled_posts", "quote_posts", "reposts", "selective_follows", "contextual_replies", "audience_research", "growth_experiments"],
     "commit_and_push": true,
     "git_remote": "git@github.com:Shaan106/twitter.git",
-    "constraints": "Operate for Shaan; preserve unrelated work; use verified supported capabilities and comply with action-specific platform rules. No purchases, security changes, spam, or enforcement evasion."
+    "constraints": "Operate for Shaan; preserve unrelated work. Latest directive explicitly selects computer-use drafting and native X scheduling despite the explained platform risk. No purchases, security changes, spam, or enforcement evasion.",
+    "native_ui_scheduling_authorized_on": "2026-09-07"
   },
-  "mode": "research_and_drafts",
+  "mode": "draft_and_native_schedule",
   "publishing_connection": null,
+  "publishing_route": "x_native_scheduler_via_computer_use",
+  "scheduling_enabled": true,
   "public_engagement_enabled": false,
-  "mode_reason": "Standing editorial authorization is granted. Execution still awaits a verified X-supported connection; website automation and automated likes conflict with X rules and the user's avoid-ban requirement. AI replies additionally require X approval and recipient opt-in.",
+  "mode_reason": "After the platform-risk explanation, Shaan explicitly requested computer use to draft and set publication times. Use X's native scheduler; do not require an API connection for this selected workflow. No claim of X approval or suspension safety. Replies, likes, follows, reposts, and DMs remain outside the active workflow.",
+  "scheduling_attempts": [
+    {
+      "attempt_id": "2026-09-07-RAT-007-native-01",
+      "draft_id": "RAT-007",
+      "text": "If we're pretending there's a fire, I don't see why we can't pretend I'm outside.",
+      "scheduled_for": "2026-09-08T09:15:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "status": "scheduled_confirmed",
+      "duplicate_check": "Native X Scheduled tab was empty before composing",
+      "receipt": "Your post will be sent on Tue, Sep 8, 2026 at 9:15 AM",
+      "ui_timezone": "Pacific Daylight Time",
+      "queue_verification": "Matching date/time and exact text visible in X's Scheduled tab",
+      "queue_url": "https://x.com/compose/post/unsent/scheduled",
+      "verified_at_approximately": "2026-09-08T04:19:00Z"
+    }
+  ],
   "baseline": {
     "observed_date": "2026-09-07",
     "timezone": "America/Los_Angeles",
@@ -64,7 +83,7 @@
   },
   "published_posts": [],
   "pending_actions": [
-    "Connect and verify an X-supported publishing route; no further per-post editorial approval is needed",
-    "Keep AI replies disabled unless X's written approval, supported access, and recipient opt-in requirements are met"
+    "Check RAT-007 publication after 2026-09-08T16:15:00Z and record its public URL; do not schedule another copy",
+    "Keep public engagement disabled under the current draft-and-schedule workflow"
   ]
 }

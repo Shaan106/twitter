@@ -37,6 +37,6 @@ Fictional first-person setups are acceptable as obvious comedy. Do not invent a 
 
 ## Replies and quotations
 
-A good reply adds a new comic angle specific to its parent. A generic quip that fits twenty posts belongs in the reject pile. Do not explain someone else's joke or merely praise it. Shaan has granted standing editorial permission for replies and Quote Posts. Until the relevant supported capability and platform prerequisites are verified, save candidates with parent URLs; do not send them through website automation. A publishing connection alone is insufficient for AI replies; see `OPERATING.md`.
+A good reply adds a new comic angle specific to its parent. A generic quip that fits twenty posts belongs in the reject pile. Do not explain someone else's joke or merely praise it. Shaan's broad editorial permission remains in the record, but the latest active workflow is drafting and native scheduling of original posts. Save reply and Quote Post candidates with parent URLs; do not send them during this narrower workflow. See `OPERATING.md` for the current method.
 
 Keep the joke aimed at ideas, public absurdity, institutions, or the narrator. Do not start pile-ons against small accounts, make factual accusations without evidence, ridicule someone's fresh personal crisis, or chase controversy for reach.

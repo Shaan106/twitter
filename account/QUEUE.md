@@ -1,6 +1,6 @@
 # Draft queue
 
-All entries below are unpublished. Draft generation is not evidence of posting. This is a first editorial pass, not a claim that the jokes will perform.
+All entries below are unpublished; RAT-007 is now scheduled in X, while the other entries remain drafts. A scheduling receipt is not evidence of publication. This is a first editorial pass, not a claim that the jokes will perform.
 
 ## Lead candidates — 2026-09-07
 
@@ -8,7 +8,7 @@ All entries below are unpublished. Draft generation is not evidence of posting. 
 
 If we're pretending there's a fire, I don't see why we can't pretend I'm outside.
 
-Status: unpublished standalone draft. Selected from the ten-candidate workshop. The rat extends a rehearsal's premise past the point of usefulness; the line is fictional comedy, not emergency advice. The final edit replaces `I left` with the more visual `I'm outside`.
+Status: **scheduled, not yet published** for September 8, 2026 at 9:15 a.m. Pacific Daylight Time (`2026-09-08T16:15:00Z`) using X's native scheduler. X displayed "Your post will be sent on Tue, Sep 8, 2026 at 9:15 AM." Attempt ID: `2026-09-07-RAT-007-native-01`. Do not schedule another copy. Selected from the ten-candidate workshop. The rat extends a rehearsal's premise past the point of usefulness; the line is fictional comedy, not emergency advice. The final edit replaces `I left` with the more visual `I'm outside`.
 
 Originality check, September 7: web search for `"fire drill" "pretend" "left" joke` and X Top search for `"fire drill" "pretend"` returned related drill jokes and anecdotes, but no obvious matching pretend-evacuation line in the inspected results. Limited check, not proof of originality. Do not attach it as a reply to any personal account of a real emergency.
 
@@ -54,7 +54,7 @@ No direct reply candidates selected. Do not automatically contact a person to te
 - RAT-005, search committee checking the building: archived because the literal-search turn is too predictable. Original preserved in the workshop log.
 - RAT-006, forty-minute laundry robot: archived because the familiar contrast template is weaker than the new scene-based candidate. Original preserved in the workshop log.
 
-Five live drafts remain: RAT-001, RAT-002, RAT-004, RAT-007, RAT-008. Archive entries are not pending publication.
+Four live drafts remain: RAT-001, RAT-002, RAT-004, RAT-008. RAT-007 is scheduled separately. Archive entries are not pending publication.
 
 ## Published
 
