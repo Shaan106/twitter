@@ -43,6 +43,6 @@ For the first two weeks, compare short standalone jokes against occasional conte
 - Use `apply_patch` to edit notes.
 - Preserve the user's existing app files and changes.
 - Never stage `.env*`, authentication data, cookies, browser storage, or credentials.
-- No Git push is authorized; commits are local.
+- Routine sessions commit locally and do not push. Shaan separately approved and completed the initial full-history push to `git@github.com:Shaan106/twitter.git` on September 7, 2026; that one-time approval does not automatically change this session rule. Follow any later explicit push instruction.
 - Keep at most 12 live drafts. Archive rejects with a brief reason when useful; do not accumulate hundreds of indistinguishable jokes.
 - If a commit fails, retain the notes and report the exact blocker. Do not reset or clean the repository.

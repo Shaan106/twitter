@@ -30,8 +30,29 @@
     "status": "ACTIVE",
     "automation_id": "stochastic-rat-editorial-sessions"
   },
-  "last_session": "2026-09-07-bio-edit",
+  "last_session": "2026-09-07-session-01",
   "completed_scheduled_slots": [],
+  "completed_manual_runs": [
+    {
+      "id": "2026-09-07-manual-01",
+      "started_at": "2026-09-08T03:44:27Z",
+      "completed_at": "2026-09-08T03:53:49Z",
+      "elapsed_seconds_before_git_closeout": 562,
+      "status": "completed_research_and_drafts",
+      "candidates_written": 10,
+      "selected_draft_ids": ["RAT-007", "RAT-008"],
+      "archived_draft_ids": ["RAT-003", "RAT-005", "RAT-006"],
+      "external_writes": 0,
+      "scheduled_slot_consumed": false
+    }
+  ],
+  "latest_observation": {
+    "observed_at_approximately": "2026-09-08T03:53:00Z",
+    "followers": 1,
+    "following": 19,
+    "posts": 0,
+    "source": "refreshed public X profile"
+  },
   "published_posts": [],
   "pending_actions": [
     "Choose and connect an X-supported publishing route before unattended posting"
