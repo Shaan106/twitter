@@ -85,7 +85,7 @@ Status: unpublished Quote Post draft, not a standalone post or unsolicited reply
 - Presentation: use the original native Quote Post so the author and image retain attribution. Recheck parent availability before any future publication. No image downloaded or reuploaded.
 - Originality: web search for `"ruled out liking it"` and X Top search for `"ruled out liking"` produced no obvious matching caption in the inspected results. X returned unrelated uses of the phrase, so this is not a claim that the words have never appeared before.
 
-No direct reply candidates selected. Do not automatically contact a person to test a joke.
+Contextual replies are enabled by the September 9 reply-first directive and tracked separately in `REPLIES.md`. This archived Quote Post remains unpublished; it is not a selected reply.
 
 ## Archived from the live queue — September 7, session 01
 
