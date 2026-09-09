@@ -1,6 +1,6 @@
 # Topical post queue
 
-The user rejected isolated humor on September 7. Current candidates must have verified tech/startup context and a "why now." All entries remain unpublished; scheduled status requires an X receipt and is separate from publication.
+The user rejected isolated humor on September 7. Current candidates must have verified tech/startup context and a "why now." Scheduled status requires an X receipt and is separate from verified publication.
 
 ## Current candidates — September 7 relevance reset
 
@@ -8,7 +8,7 @@ The user rejected isolated humor on September 7. Current candidates must have ve
 
 Prime predicts AI will replace Playwright tests. Can't wait for the test suite to click "Book a demo" and come back with a three-year contract.
 
-- Status: **scheduled, not yet published** for September 8, 2026 at 9:15 a.m. Pacific Daylight Time. The native Scheduled tab displayed the exact text and intended date/time. Attempt `2026-09-07-RAT-009-native-01`. No duplicate submission.
+- Status: **published and verified**. The exact post is public at https://x.com/Stochastic_rat/status/2097358047492612355 with timestamp September 8, 2026, 9:15 a.m. Pacific. Verified in the evening session; native Scheduled queue was empty. Attempt `2026-09-07-RAT-009-native-01`. No duplicate submission.
 - Primary source: https://x.com/ThePrimeagen/status/2097124699335491704
 - Source time: September 7, 2026, 5:47 p.m. Pacific, verified on the full post page. The author predicts models replacing many Playwright tests in 2027 and discusses using computer interaction for Omarchy. Read the follow-up and visible replies about repeatability and regressions.
 - Why now: an active developer debate from this evening, not a generic AI joke added to a calendar.
@@ -27,6 +27,17 @@ Tibo asked for wrong answers on spending $5m on Squad. Lease an office. These AI
 - Why now: directly answers a current founder conversation about this specific launch; it is not a claim Tibo actually raised $5m or leased an office.
 - Turn: literal office overhead applied to software teammates. Weaker than RAT-009; keep as an alternate, not a quota filler.
 - Originality: `"AI teammates" "remote long enough"` web spot-check yielded no obvious matching joke in inspected results; the broad AI-office trope may be familiar.
+
+### RAT-011 — muscle advertising metrics — September 8 selection
+
+Marc Lou is selling startup ads on his muscles. Is a bicep curl one impression or two?
+
+- Status: **scheduled, not yet verified published** for September 8, 2026, 6:45 p.m. Pacific (`2026-09-09T01:45:00Z`). Attempt `2026-09-08-RAT-011-native-01`. Verified the date/year, 18:45, and Pacific Daylight Time before Confirm, then exact text/time before Schedule. The refreshed Scheduled tab showed the one matching entry. No duplicate submission.
+- Primary source: https://x.com/marclou/status/2097326512169222407, timestamp September 8, 2026, 7:09 a.m. Pacific. Full announcement read, including bidding mechanics; author follow-ups and several replies inspected.
+- Corroboration: https://hyrox.marclou.com/ explains startup logos on his body as temporary tattoos for his HYROX race. Read-only inspection; no bid, purchase, upload, or endorsement.
+- Why now: this morning's distinctive indie-founder sponsorship launch is being discussed in the current Following feed. The joke treats physical movement as an ad-measurement dispute.
+- Claim boundary: selling muscle sponsorships is the verified setup; the question about counting impressions is invented comedy, not a claim about his billing. No body criticism or allegation. Original post/site say September 19 while one follow-up says November 19; omit race date entirely rather than resolve that inconsistency by guessing.
+- Originality: web spot-checks for `"Marc Lou" "bicep" "impression"` and `"bicep curl" "one impression or two"`, plus X Top search for `"bicep" "impressions"`, returned no obvious matching joke in inspected results. X matches were unrelated fitness and software posts. Limited check, not proof of originality.
 
 ## Archived isolated-humor candidates — do not publish
 
@@ -82,8 +93,8 @@ No direct reply candidates selected. Do not automatically contact a person to te
 - RAT-005, search committee checking the building: archived because the literal-search turn is too predictable. Original preserved in the workshop log.
 - RAT-006, forty-minute laundry robot: archived because the familiar contrast template is weaker than the new scene-based candidate. Original preserved in the workshop log.
 
-Only RAT-009 and RAT-010 are current candidates. RAT-001, RAT-002, RAT-004, RAT-007, and RAT-008 are archived for lack of current tech relevance. Archive entries are not pending publication.
+RAT-009 is published; RAT-010 is a local alternate; RAT-011 is the September 8 selection. RAT-001, RAT-002, RAT-004, RAT-007, and RAT-008 are archived for lack of current tech relevance. Archive entries are not pending publication.
 
 ## Published
 
-None. Do not infer publication from text entered into a composer or a button click alone.
+- RAT-009: https://x.com/Stochastic_rat/status/2097358047492612355 — September 8, 2026, 9:15 a.m. Pacific. At approximately 6:03 p.m. Pacific, visible counts were 1 view, 0 replies, 0 reposts, 0 likes, 0 bookmarks. The account showed 2 followers and 37 following. These are early raw observations; the view may include operator inspection, and follower change cannot be attributed to this post.
