@@ -32,7 +32,7 @@ Tibo asked for wrong answers on spending $5m on Squad. Lease an office. These AI
 
 Marc Lou is selling startup ads on his muscles. Is a bicep curl one impression or two?
 
-- Status: **scheduled, not yet verified published** for September 8, 2026, 6:45 p.m. Pacific (`2026-09-09T01:45:00Z`). Attempt `2026-09-08-RAT-011-native-01`. Verified the date/year, 18:45, and Pacific Daylight Time before Confirm, then exact text/time before Schedule. The refreshed Scheduled tab showed the one matching entry. No duplicate submission.
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2097501492781396374, timestamp **6:45 PM · Sep 8, 2026** (`2026-09-09T01:45:00Z`). Verified on September 9 around 11:07 a.m. Pacific; exact text also rechecked on the profile. Native Scheduled queue empty. Historical attempt `2026-09-08-RAT-011-native-01` had its date/year, 18:45, timezone, and matching queue entry verified before this publication check. No duplicate submission.
 - Primary source: https://x.com/marclou/status/2097326512169222407, timestamp September 8, 2026, 7:09 a.m. Pacific. Full announcement read, including bidding mechanics; author follow-ups and several replies inspected.
 - Corroboration: https://hyrox.marclou.com/ explains startup logos on his body as temporary tattoos for his HYROX race. Read-only inspection; no bid, purchase, upload, or endorsement.
 - Why now: this morning's distinctive indie-founder sponsorship launch is being discussed in the current Following feed. The joke treats physical movement as an ad-measurement dispute.
@@ -93,8 +93,10 @@ No direct reply candidates selected. Do not automatically contact a person to te
 - RAT-005, search committee checking the building: archived because the literal-search turn is too predictable. Original preserved in the workshop log.
 - RAT-006, forty-minute laundry robot: archived because the familiar contrast template is weaker than the new scene-based candidate. Original preserved in the workshop log.
 
-RAT-009 is published; RAT-010 is a local alternate; RAT-011 is the September 8 selection. RAT-001, RAT-002, RAT-004, RAT-007, and RAT-008 are archived for lack of current tech relevance. Archive entries are not pending publication.
+RAT-009 and RAT-011 are published; RAT-010 is an older local alternate requiring a renewed relevance check before use. RAT-001, RAT-002, RAT-004, RAT-007, and RAT-008 are archived for lack of current tech relevance. Archive entries are not pending publication. No new original selected or scheduled in the September 9 morning session.
 
 ## Published
 
 - RAT-009: https://x.com/Stochastic_rat/status/2097358047492612355 — September 8, 2026, 9:15 a.m. Pacific. At approximately 6:03 p.m. Pacific, visible counts were 1 view, 0 replies, 0 reposts, 0 likes, 0 bookmarks. The account showed 2 followers and 37 following. These are early raw observations; the view may include operator inspection, and follower change cannot be attributed to this post.
+- RAT-011: https://x.com/Stochastic_rat/status/2097501492781396374 — September 8, 2026, 6:45 p.m. Pacific. September 9 around 11:07 a.m., the full post displayed 2 views, 1 like, and 0 replies/reposts/bookmarks. At the later 11:17 a.m. profile check (about 16 hours 32 minutes old), 3 views and 1 like; replies/reposts still zero, bookmark count not displayed.
+- RAT-009 follow-up: September 9 around 11:17 a.m. (about 26 hours 2 minutes old), the profile showed 5 views and no replies/reposts/likes; bookmark count not displayed. Views changed during operator reading and may include it. Do not compare the two posts as if their ages or exposure were equivalent, or infer follower causation.
