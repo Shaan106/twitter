@@ -145,6 +145,7 @@
     "reply_first_prompt_readback_verified": true
   },
   "last_session": "2026-09-09-am-01",
+  "last_session_attempt": "2026-09-10-am-01",
   "last_manual_run": "2026-09-09-reply-first",
   "completed_scheduled_slots": ["2026-09-08T18:00:00-07:00", "2026-09-09T09:00:00-07:00"],
   "scheduled_session_attempts": [
@@ -184,13 +185,29 @@
       "new_retained_candidates": 0,
       "scheduled_slot_completed": true,
       "log": "account/logs/2026-09-09-am-01.md"
+    },
+    {
+      "id": "2026-09-10-am-01",
+      "slot": "2026-09-10T09:00:00-07:00",
+      "heartbeat_at": "2026-09-10T16:03:02.425Z",
+      "started_at": "2026-09-10T16:04:06Z",
+      "block_recorded_at": "2026-09-10T20:27:57Z",
+      "status": "blocked_mac_locked",
+      "external_x_writes": 0,
+      "current_account_verified": false,
+      "queue_or_publication_reconciled": false,
+      "scheduled_slot_completed": false,
+      "note": "Single computer-use access check reported a locked Mac requiring manual unlock. No retry or alternate browser route. Next clock read was 20:27:57Z; this elapsed gap is not a claim of continuous editorial work. No X activity occurred, and only local closeout followed.",
+      "log": "account/logs/2026-09-10-am-01-blocked.md"
     }
   ],
   "browser_access": {
-    "status": "available_acting_account_verified",
-    "observed_at_approximately": "2026-09-09T19:59:00Z",
-    "required_action": null,
-    "message": "Visible acting handle @Stochastic_rat verified before two individually composed replies; both public URLs and parent relationships verified, then reconciled in account Replies tab. Optional Premium upsell dismissed without purchase. No enforcement warning or challenge observed. Native Scheduled queue not rechecked during this manual reply pass."
+    "status": "blocked_mac_locked",
+    "observed_at_approximately": null,
+    "recorded_at": "2026-09-10T20:27:57Z",
+    "last_successful_observation_at_approximately": "2026-09-09T19:59:00Z",
+    "required_action": "Manually unlock the Mac before the next computer-use account check",
+    "message": "Computer use reported: The Mac is locked and automatic unlock could not unlock it. No current acting-account, queue, reply-response, or public metrics verification was possible. No browser retry or external X writes. Exact access-check time was not separately recorded."
   },
   "completed_manual_runs": [
     {
@@ -262,6 +279,7 @@
     }
   ],
   "pending_actions": [
+    "September 10 morning attempt blocked by locked Mac; manually unlock before browser work. Morning slot remains incomplete; reconcile account, native Scheduled queue, and existing reply receipts before any new submission",
     "RAT-007 is cancelled and rejected; never reschedule it",
     "RAT-009 publication is verified; never resubmit it",
     "RAT-011 publication is verified; never resubmit it",

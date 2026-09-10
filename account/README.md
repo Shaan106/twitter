@@ -6,6 +6,7 @@ The September 7, 2026 directive establishes an original comedy account. The late
 
 ## Current status
 
+- September 10 morning attempt: blocked by a locked Mac; manual unlock is required before computer use. No account changes or fresh metric/queue checks occurred. The morning slot remains incomplete; the recurring schedule is unchanged. See `logs/2026-09-10-am-01-blocked.md`.
 - Display name: Stochastic Rat.
 - Bio: `The control group has asked to leave.`
 - Avatar: `assets/stochastic-rat-avatar.png`, an original illustrated rat in a tweed jacket.
