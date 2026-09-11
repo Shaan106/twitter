@@ -145,7 +145,7 @@
     "reply_first_prompt_readback_verified": true
   },
   "last_session": "2026-09-09-am-01",
-  "last_session_attempt": "2026-09-10-am-01",
+  "last_session_attempt": "2026-09-10-pm-01",
   "last_manual_run": "2026-09-09-reply-first",
   "completed_scheduled_slots": ["2026-09-08T18:00:00-07:00", "2026-09-09T09:00:00-07:00"],
   "scheduled_session_attempts": [
@@ -199,15 +199,29 @@
       "scheduled_slot_completed": false,
       "note": "Single computer-use access check reported a locked Mac requiring manual unlock. No retry or alternate browser route. Next clock read was 20:27:57Z; this elapsed gap is not a claim of continuous editorial work. No X activity occurred, and only local closeout followed.",
       "log": "account/logs/2026-09-10-am-01-blocked.md"
+    },
+    {
+      "id": "2026-09-10-pm-01",
+      "slot": "2026-09-10T18:00:00-07:00",
+      "heartbeat_at": "2026-09-11T01:16:12.575Z",
+      "started_at": "2026-09-11T01:47:18Z",
+      "block_recorded_at": "2026-09-11T01:49:07Z",
+      "status": "blocked_mac_locked",
+      "external_x_writes": 0,
+      "current_account_verified": false,
+      "queue_or_publication_reconciled": false,
+      "scheduled_slot_completed": false,
+      "note": "Actual first clock read was 6:47 p.m. Pacific, later than the heartbeat. One computer-use access check returned the same manual-unlock requirement as the morning attempt. No retry, alternate route, or new X action.",
+      "log": "account/logs/2026-09-10-pm-01-blocked.md"
     }
   ],
   "browser_access": {
     "status": "blocked_mac_locked",
-    "observed_at_approximately": null,
-    "recorded_at": "2026-09-10T20:27:57Z",
+    "observed_at_approximately": "2026-09-11T01:49:00Z",
+    "recorded_at": "2026-09-11T01:49:07Z",
     "last_successful_observation_at_approximately": "2026-09-09T19:59:00Z",
     "required_action": "Manually unlock the Mac before the next computer-use account check",
-    "message": "Computer use reported: The Mac is locked and automatic unlock could not unlock it. No current acting-account, queue, reply-response, or public metrics verification was possible. No browser retry or external X writes. Exact access-check time was not separately recorded."
+    "message": "Evening computer-use check again reported a locked Mac requiring manual unlock. No X page, acting-account, queue, response, or public-metrics verification was possible. No browser retry or external X writes. The morning access blocker is unchanged."
   },
   "completed_manual_runs": [
     {
@@ -279,7 +293,7 @@
     }
   ],
   "pending_actions": [
-    "September 10 morning attempt blocked by locked Mac; manually unlock before browser work. Morning slot remains incomplete; reconcile account, native Scheduled queue, and existing reply receipts before any new submission",
+    "September 10 morning and evening attempts blocked by locked Mac; manually unlock before browser work. Both slots remain incomplete; reconcile account, native Scheduled queue, and existing reply receipts before any new submission",
     "RAT-007 is cancelled and rejected; never reschedule it",
     "RAT-009 publication is verified; never resubmit it",
     "RAT-011 publication is verified; never resubmit it",
