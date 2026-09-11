@@ -6,7 +6,7 @@ The September 7, 2026 directive establishes an original comedy account. The late
 
 ## Current status
 
-- September 10 morning and evening attempts: blocked by a locked Mac; manual unlock is required before computer use. No account changes or fresh metric/queue checks occurred. Both slots remain incomplete; the recurring schedule is unchanged. Latest record: `logs/2026-09-10-pm-01-blocked.md`.
+- September 11 morning session: browser access restored and acting @Stochastic_rat verified. Published two contextual replies, reconciled the empty native Scheduled queue, and checked visible notifications. Final profile around 11:32 a.m. Pacific: 2 followers, 46 following, 6 total posts (2 originals and 4 replies). Latest record: `logs/2026-09-11-am-01.md`. September 10's blocked slots remain incomplete and were not replayed; recurring schedule unchanged.
 - Display name: Stochastic Rat.
 - Bio: `The control group has asked to leave.`
 - Avatar: `assets/stochastic-rat-avatar.png`, an original illustrated rat in a tweed jacket.
@@ -22,6 +22,7 @@ The September 7, 2026 directive establishes an original comedy account. The late
 - September 9 morning session: completed after a late 11:05 a.m. Pacific start; publication reconciled and eight relevant accounts followed after profile/recent-work inspection. The user reiterated initiative; the number followed is neither a cap nor a recurring target.
 - Reading feed: 27 relevant project follows individually verified; 46 following in total. Latest additions: @getpeid, @SnazzyLabs, @simonw, @yongfook, @dr, @damonchen, @alexellisuk, and @GregDavill. Profile observed at approximately 11:17 a.m. September 9: 2 followers, 46 following, 2 public originals. See `READING-LIST.md`. No likes have been sent.
 - September 9 reply-first manual pass: published and verified contextual replies to [Vogel's AI/3D-printer experiment](https://x.com/Stochastic_rat/status/2097775188939330024) and [Varun's operational-data post](https://x.com/Stochastic_rat/status/2097776412375798129). Exact text, context, attempts, and receipts are in `REPLIES.md`. Updated the existing automation without changing its 9 a.m./6 p.m. Pacific schedule or consuming another scheduled slot.
+- September 11 replies: [Simon on production-code review](https://x.com/Stochastic_rat/status/2098477359716557308) and [Theo on individual design credit](https://x.com/Stochastic_rat/status/2098478437384286427), both submitted once and verified through public receipts. Earlier replies around 11:18 a.m. showed 27 views (Vogel) and 481 (Varun), with zero visible likes/replies/reposts; followers remained 2. Exposure is not follower conversion. Originals around 11:19 a.m. showed 8 views/0 likes (RAT-009) and 5 views/1 like (RAT-011); different ages and exposure prevent a controlled comparison. No original scheduled or new follow this session.
 - GitHub sync: scoped account work may be committed and pushed without per-push approval to `git@github.com:Shaan106/twitter.git`. The latest directive supersedes the old local-commit-only instruction.
 
 ## Read at the start of every session
