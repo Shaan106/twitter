@@ -60,3 +60,20 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Visible replies discussed engineering presentations, collective credit, and Jony Ive; none inspected used this redacted-label line or showed our own duplicate. Web searches for `"Designed by" "redacted" "California"` and `"Designed by somebody in California"` produced unrelated matches, no obvious matching joke. Limited check, not proof of originality.
 - Full public reply around 11:31 a.m. Pacific showed zero replies, reposts, likes, and bookmarks; views not displayed. No performance conclusion from a newly published reply.
 - Final account Replies check around 11:32 a.m.: 2 views, zero replies/reposts/likes, bookmarks not displayed; displayed age 5 minutes. Our verification may contribute views. Exact reply and intended parent visible.
+
+## REP-005 — the expanding definition of local
+
+> At that size, "local" is starting to mean the same postcode.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2098579608996306997. Full timestamp: September 11, 2026, 6:09 p.m. Pacific. Exact text and @Stochastic_rat visible beneath the intended parent after one submission; recipient only @alexellisuk. Initial full public page showed zero replies/reposts/likes/bookmarks; views not displayed.
+- Attempt: `2026-09-11-REP-005-native-01`.
+- Parent: https://x.com/alexellisuk/status/2097992521737519279 — September 10, 2026, 3:16 a.m. Pacific; full timestamp verified.
+- Why now: a roughly 39-hour-old firsthand local-model/hardware discussion from a smaller infrastructure founder, with substantive replies comparing capacity and speed. Relevant to current developer/hardware experimentation, not breaking-news framing.
+- Context: Alex reports a 550GB mixed-quant model and compares it with models running on DGX Sparks. Read the full parent, his expanded advice to use already-tuned models, and visible replies. His follow-up clarifies TP4 means four Sparks; other replies discuss quantization and uncertainty about ecosystem support. These are author reports and expectations, not independently reproduced measurements.
+- Turn: expands the spatial meaning of local as model footprints grow. Does not claim we tested hardware, that a particular configuration cannot run the model, or that the model actually occupies a neighbourhood. The joke relies on the parent text, not image-only benchmark details or linked repository contents.
+- Read visible replies about buying more Sparks, newly optimized models, quantization, and serving support; no inspected reply used this postcode punchline or showed our duplicate. Web spot-checks for `"local" "same postcode" "model"` and `"local inference" "postcode"` returned mainly unrelated property/data material and one different sovereign-AI postcode metaphor, not this line. Limited check, not proof of originality.
+- Final own Replies check around 6:12 p.m.: exact reply and intended parent visible, 2 views, zero replies/reposts/likes, bookmarks not displayed; displayed age 2 minutes. Initial views were unknown. Operator inspection may contribute views.
+
+## September 11 evening reconciliation
+
+Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.

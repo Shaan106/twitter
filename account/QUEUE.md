@@ -2,7 +2,7 @@
 
 The user rejected isolated humor on September 7. Current candidates must have verified tech/startup context and a "why now." Scheduled status requires an X receipt and is separate from verified publication.
 
-Latest reconciliation: September 11, 2026 around 11:19 a.m. Pacific, native Scheduled tab was loaded, selected, and empty. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled in this morning session; two contextual replies are recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
+Latest reconciliation: September 11, 2026 around 6:03 p.m. Pacific, native Scheduled tab was loaded, selected, and empty. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled in either September 11 session; contextual replies are recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
 
 ## Current candidates — September 7 relevance reset
 
@@ -103,3 +103,4 @@ RAT-009 and RAT-011 are published; RAT-010 is an older local alternate requiring
 - RAT-011: https://x.com/Stochastic_rat/status/2097501492781396374 — September 8, 2026, 6:45 p.m. Pacific. September 9 around 11:07 a.m., the full post displayed 2 views, 1 like, and 0 replies/reposts/bookmarks. At the later 11:17 a.m. profile check (about 16 hours 32 minutes old), 3 views and 1 like; replies/reposts still zero, bookmark count not displayed.
 - RAT-009 follow-up: September 9 around 11:17 a.m. (about 26 hours 2 minutes old), the profile showed 5 views and no replies/reposts/likes; bookmark count not displayed. Views changed during operator reading and may include it. Do not compare the two posts as if their ages or exposure were equivalent, or infer follower causation.
 - September 11 around 11:19 a.m.: RAT-009 showed 8 views and zero likes/replies/reposts, about 74 hours 4 minutes old; RAT-011 showed 5 views, 1 like, and zero replies/reposts, about 64 hours 34 minutes old. Bookmarks not displayed. Preserve historical counts; inspection may contribute views, and no follower conversion is established.
+- September 11 around 6:04 p.m.: RAT-009 showed 9 views and zero likes/replies/reposts, about 80 hours 49 minutes old; RAT-011 showed 6 views, 1 like, and zero replies/reposts, about 71 hours 19 minutes old. Bookmarks not displayed. Small count changes may include operator inspection; no conversion claim.
