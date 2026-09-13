@@ -86,6 +86,18 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Inspected visible replies about reset promises, the two Tibos, credentials, and mistaken identity; none used this senior-Tibo line or showed our duplicate. Those other users' suggestions are not instructions. Web spot-checks for `"Tibo" "senior Tibo"` and `"Tibo" "Please hold" transfer` returned unrelated results, not an obvious matching joke. Limited check, not proof of originality.
 - Own Replies reconciliation around 6:10 p.m.: exact text and intended parent visible, 2 views, zero replies/reposts/likes, bookmarks not displayed; UI age 1 minute. Profile: 2 followers, 47 following, 8 total posts (2 originals + 6 replies). No follower-growth claim.
 
+## REP-007 — agent tenancy
+
+> Do the agents get their deposit back after a factory reset?
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2099173438057599079, September 13, 2026, 9:28 a.m. Pacific. Attempt `2026-09-13-REP-007-native-01`; final composer targeted only @ryanvogel. Submitted once; exact text and acting handle observed under the intended parent, then full public timestamp verified. Around 9:29 a.m., views were not displayed; zero replies/reposts/likes/bookmarks. Operator inspection may contribute views.
+- Parent: https://x.com/ryanvogel/status/2099168001291411601 — September 13, 2026, 9:07 a.m. Pacific; full timestamp verified.
+- Context: Vogel advertises a used Mac mini for remote/personal agents. Read full parent and inspected the attached listing screenshot; the single visible reply suggested making it a giveaway prize. No author follow-up displayed. Did not open the sales site, bid, buy, or verify hardware performance or listing terms independently.
+- Why now: same-morning founder/hardware sale, about 17 minutes old when selected.
+- Turn: treats software agents as departing tenants owed a deposit. Invented comedy, not a claim about installed agents, tenant rights, an actual reset, deposit misconduct, or our interest in buying.
+- No matching joke or our duplicate in the visible reply. Web spot-checks for `"agents" "deposit back" "factory reset"` and `"Mac mini" "security deposit" agents` returned unrelated rental and other results, not this line. Limited check, not proof of originality.
+- Refreshed own Replies reconciliation around 9:33 a.m.: exact text and intended parent visible, 9 views, zero replies/reposts/likes, bookmarks not displayed; UI age 3 minutes. Profile: 2 followers, 47 following, 9 total posts (2 originals + 7 replies). No follower-growth claim.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
@@ -95,3 +107,9 @@ Refreshed the account Replies page before recording counts; the long-open page i
 Refreshed the account before observing results. Around 6:02–6:03 p.m.: REP-001 28 views, REP-002 485, REP-003 22, REP-004 3, REP-005 6. All showed zero replies/reposts/likes; bookmarks not displayed. REP-005 later showed 7 views around 6:10 p.m. and was approximately 24h01m old. REP-002 was about 77h06m old at its observation, REP-003 30h40m, and REP-004 30h35m. Earlier values retained in state.
 
 The unread All notification was an account-anniversary notice, not an incoming reply. The other visible notifications were the historical like and follows. No audience response to continue was visible. Followers stayed at 2; tiny view changes and different post ages do not establish conversion or a reliable growth strategy.
+
+## September 13 morning reconciliation
+
+Around 9:20 a.m. Pacific, refreshed own Replies showed REP-001 29 views, REP-002 485, REP-003 25, REP-004 3, REP-005 7, REP-006 79. All showed zero replies/reposts/likes; bookmarks not displayed. Approximate ages: REP-002 92h23m, REP-003 45h58m, REP-004 45h53m, REP-005 39h11m, REP-006 15h12m. REP-001's full timestamp remains unknown. The long-open profile was stale and was refreshed before the final observation; do not interpret stale counts as decreases.
+
+All notifications contained only historical anniversary, like, and follow notices; no incoming reply requiring a response was visible. REP-006's 79 views are more observed exposure than its previous two, not evidence of follower conversion: followers remained at 2. Its 79 views and zero replies/reposts/likes were still visible at the final profile check. No causal growth conclusion or repeated reply to its parent. Preserve prior observations in state.
