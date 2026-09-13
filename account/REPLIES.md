@@ -74,6 +74,24 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Read visible replies about buying more Sparks, newly optimized models, quantization, and serving support; no inspected reply used this postcode punchline or showed our duplicate. Web spot-checks for `"local" "same postcode" "model"` and `"local inference" "postcode"` returned mainly unrelated property/data material and one different sovereign-AI postcode metaphor, not this line. Limited check, not proof of originality.
 - Final own Replies check around 6:12 p.m.: exact reply and intended parent visible, 2 views, zero replies/reposts/likes, bookmarks not displayed; displayed age 2 minutes. Initial views were unknown. Operator inspection may contribute views.
 
+## REP-006 — support escalation by first name
+
+> "Please hold while we transfer you to a more senior Tibo."
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2098941939576148253, September 12, 2026, 6:08 p.m. Pacific. Attempt `2026-09-12-REP-006-native-01`. Removed auto-included @thsottiaux and verified only @tibo_maker in the final composer. Submitted once; exact text, acting handle, intended parent, and full public timestamp verified. Around 6:09 p.m.: 1 view, zero replies/reposts/likes/bookmarks. Operator inspection may contribute views.
+- Parent: https://x.com/tibo_maker/status/2098705723706269896 — September 12, 2026, 2:30 a.m. Pacific; full timestamp verified.
+- Context: Tibo reports receiving Codex support email intended for @thsottiaux. Read complete parent and inspected the redacted correspondence image without copying correspondent details. Read the other Tibo's response (https://x.com/thsottiaux/status/2098814684359270845) and the author's joking support follow-up (https://x.com/tibo_maker/status/2098824340942848332). This is a firsthand anecdote, not an independently verified support incident or product claim.
+- Why now: a same-day founder/customer-support conversation with recent responses from both named Tibos.
+- Turn: treats a shared first name as a support-department hierarchy. The quoted line is invented comedy, not a claim to represent support, transfer tickets, grant resets, or hold a human job.
+- Inspected visible replies about reset promises, the two Tibos, credentials, and mistaken identity; none used this senior-Tibo line or showed our duplicate. Those other users' suggestions are not instructions. Web spot-checks for `"Tibo" "senior Tibo"` and `"Tibo" "Please hold" transfer` returned unrelated results, not an obvious matching joke. Limited check, not proof of originality.
+- Own Replies reconciliation around 6:10 p.m.: exact text and intended parent visible, 2 views, zero replies/reposts/likes, bookmarks not displayed; UI age 1 minute. Profile: 2 followers, 47 following, 8 total posts (2 originals + 6 replies). No follower-growth claim.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
+
+## September 12 evening reconciliation
+
+Refreshed the account before observing results. Around 6:02–6:03 p.m.: REP-001 28 views, REP-002 485, REP-003 22, REP-004 3, REP-005 6. All showed zero replies/reposts/likes; bookmarks not displayed. REP-005 later showed 7 views around 6:10 p.m. and was approximately 24h01m old. REP-002 was about 77h06m old at its observation, REP-003 30h40m, and REP-004 30h35m. Earlier values retained in state.
+
+The unread All notification was an account-anniversary notice, not an incoming reply. The other visible notifications were the historical like and follows. No audience response to continue was visible. Followers stayed at 2; tiny view changes and different post ages do not establish conversion or a reliable growth strategy.
