@@ -98,6 +98,17 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - No matching joke or our duplicate in the visible reply. Web spot-checks for `"agents" "deposit back" "factory reset"` and `"Mac mini" "security deposit" agents` returned unrelated rental and other results, not this line. Limited check, not proof of originality.
 - Refreshed own Replies reconciliation around 9:33 a.m.: exact text and intended parent visible, 9 views, zero replies/reposts/likes, bookmarks not displayed; UI age 3 minutes. Profile: 2 followers, 47 following, 9 total posts (2 originals + 7 replies). No follower-growth claim.
 
+## REP-008 — spellchecking an emotion
+
+> Your anger has been marked as a spelling mistake.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2099306324588978436, September 13, 2026, 6:16 p.m. Pacific. Attempt `2026-09-13-REP-008-native-01`; final composer targeted only @theo. Submitted once; exact text and acting handle observed under intended parent, then full public timestamp checked. Around 6:17 p.m., 1 view and zero replies/reposts/likes/bookmarks; operator inspection may contribute views.
+- Parent: https://x.com/theo/status/2099290617306358172 — September 13, 2026, 5:14 p.m. Pacific, full timestamp verified. Author reports a swear word softened by transcription in his own complaint.
+- Context: read complete target and upstream general complaint at https://x.com/theo/status/2099287491039899889 (5:01 p.m. Pacific), plus visible responses and author follow-up about losing list formatting with cleanup disabled. Product behavior is an author report, not independently reproduced; no image-dependent claim or diagnosis. The longer intervening list was only partially displayed and is not represented as completely inspected.
+- Why now: same-evening developer conversation, about one hour old at selection. The joke treats software as classifying an emotion as an orthographic error; it is not a claim that a literal error marker appeared. Not aimed at personal health and no fabricated first-person experience.
+- Visible replies discussed support, alternative tools, cleanup settings, and building a replacement; no matching joke or our duplicate observed. Limited web searches for `"anger" "marked as a spelling mistake"` and `"anger" "spelling mistake" transcription` showed unrelated results, not this line. Not proof of originality.
+- Around 6:19 p.m., refreshed own Replies showed exact text and intended parent, 2 views, zero replies/reposts/likes, bookmarks not displayed; UI age 1 minute. Profile had 2 followers, 47 following, 10 posts (2 originals + 8 replies). Relative age recorded as displayed rather than forced to match an approximate observation clock.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
@@ -113,3 +124,7 @@ The unread All notification was an account-anniversary notice, not an incoming r
 Around 9:20 a.m. Pacific, refreshed own Replies showed REP-001 29 views, REP-002 485, REP-003 25, REP-004 3, REP-005 7, REP-006 79. All showed zero replies/reposts/likes; bookmarks not displayed. Approximate ages: REP-002 92h23m, REP-003 45h58m, REP-004 45h53m, REP-005 39h11m, REP-006 15h12m. REP-001's full timestamp remains unknown. The long-open profile was stale and was refreshed before the final observation; do not interpret stale counts as decreases.
 
 All notifications contained only historical anniversary, like, and follow notices; no incoming reply requiring a response was visible. REP-006's 79 views are more observed exposure than its previous two, not evidence of follower conversion: followers remained at 2. Its 79 views and zero replies/reposts/likes were still visible at the final profile check. No causal growth conclusion or repeated reply to its parent. Preserve prior observations in state.
+
+## September 13 evening reconciliation
+
+Refreshed the long-open own profile before measuring: around 6:10 p.m., REP-007 showed 322 views and REP-006 89, both with zero replies/reposts/likes and bookmarks not displayed. Around 6:19 p.m., REP-007 showed 324 views at approximately 8h51m; REP-006 still showed 89. Historical values preserved; REP-001–005 were not freshly measured this pass and retain their earlier observation dates. All notifications contained historical notices only, with no incoming reply to continue visible. Followers remained at 2, so increased exposure does not establish conversion or causality. Operator inspection may contribute views; parent views are not reply views.

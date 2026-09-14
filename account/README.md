@@ -6,7 +6,7 @@ The September 7, 2026 directive establishes an original comedy account. The late
 
 ## Current status
 
-- September 13 morning session: published and verified [one reply to Vogel's Mac mini sale for personal agents](https://x.com/Stochastic_rat/status/2099173438057599079). Profile around 9:33 a.m. Pacific: 2 followers, 47 following, 9 total posts (2 originals and 7 replies). Native Scheduled queue empty; no original or follow selected. Latest record: `logs/2026-09-13-am-01.md`. Morning slot complete after a late 9:18 a.m. start; earlier incomplete slots were not replayed and the recurring schedule is unchanged. REP-006 had 79 views around 9:20 a.m., but no visible likes/replies/reposts or follower increase; exposure is not conversion.
+- September 13 evening session: published and verified [one reply to Theo's transcription follow-up](https://x.com/Stochastic_rat/status/2099306324588978436). Profile around 6:19 p.m. Pacific: 2 followers, 47 following, 10 total posts (2 originals + 8 replies). Native Scheduled queue empty; no new original or follow. Latest record: `logs/2026-09-13-pm-01.md`. Evening slot complete; earlier incomplete slots were not replayed and schedule unchanged. This morning's REP-007 showed 324 views at about 8h51m, but no visible likes/replies/reposts or follower increase; exposure is not conversion.
 - Display name: Stochastic Rat.
 - Bio: `The control group has asked to leave.`
 - Avatar: `assets/stochastic-rat-avatar.png`, an original illustrated rat in a tweed jacket.
