@@ -109,6 +109,15 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Visible replies discussed support, alternative tools, cleanup settings, and building a replacement; no matching joke or our duplicate observed. Limited web searches for `"anger" "marked as a spelling mistake"` and `"anger" "spelling mistake" transcription` showed unrelated results, not this line. Not proof of originality.
 - Around 6:19 p.m., refreshed own Replies showed exact text and intended parent, 2 views, zero replies/reposts/likes, bookmarks not displayed; UI age 1 minute. Profile had 2 followers, 47 following, 10 posts (2 originals + 8 replies). Relative age recorded as displayed rather than forced to match an approximate observation clock.
 
+## REP-009 — computer leisure
+
+> Good to see the computer has something to watch while you do the cable management.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2099554531231363103, September 14, 2026, 10:43 a.m. Pacific. Attempt `2026-09-14-REP-009-native-01`; only @ThePrimeagen in the final composer. Submitted once; exact text, acting handle, intended parent and full public timestamp verified. Around 10:44 a.m., views not displayed, zero replies/reposts/likes/bookmarks; refreshed own Replies also showed the exact text and parent, UI age 51 seconds, bookmarks not displayed.
+- Parent: https://x.com/ThePrimeagen/status/2099549538897805315 — September 14, 2026, 10:23 a.m. Pacific, full timestamp verified. Caption: “Setting up the automation rig.” Complete parent, author follow-up, and fresh visible replies read; enlarged photo inspected.
+- Context and turn: a small retro-style TV sits beside the computers and physical cables. The computer gets entertainment while the human handles setup. Invented personification, not a claim about autonomous behavior, hardware models/performance, or network exposure. No addresses copied or probed.
+- Why now: same-morning hardware setup, roughly 20 minutes old at selection. No matching line or our duplicate in inspected replies. Limited web checks for `computer/watch/you do the cable management` and `computer has something to watch` returned unrelated results, no obvious matching joke; not proof of originality.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
@@ -128,3 +137,7 @@ All notifications contained only historical anniversary, like, and follow notice
 ## September 13 evening reconciliation
 
 Refreshed the long-open own profile before measuring: around 6:10 p.m., REP-007 showed 322 views and REP-006 89, both with zero replies/reposts/likes and bookmarks not displayed. Around 6:19 p.m., REP-007 showed 324 views at approximately 8h51m; REP-006 still showed 89. Historical values preserved; REP-001–005 were not freshly measured this pass and retain their earlier observation dates. All notifications contained historical notices only, with no incoming reply to continue visible. Followers remained at 2, so increased exposure does not establish conversion or causality. Operator inspection may contribute views; parent views are not reply views.
+
+## September 14 morning reconciliation
+
+Around 10:30 a.m. Pacific: REP-006 105 views, REP-007 471, REP-008 120. Around 10:44 a.m., refreshed own Replies showed REP-007 472 and REP-008 121. All zero replies/reposts/likes; bookmarks not displayed. Approximate ages at latest check: REP-006 40h22m, REP-007 25h16m, REP-008 16h28m. REP-001 through REP-005 were not freshly measured; their historical observations remain unchanged. Notifications showed historical notices only, with no incoming reply to continue. Followers stayed at 2. No attribution or controlled comparison from this small sample; operator inspection can contribute views.

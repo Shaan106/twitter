@@ -2,7 +2,7 @@
 
 The user rejected isolated humor on September 7. Current candidates must have verified tech/startup context and a "why now." Scheduled status requires an X receipt and is separate from verified publication.
 
-Latest reconciliation: September 13, 2026 evening, native Scheduled tab was loaded, selected, and empty before writing. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled in this evening session; one contextual reply is recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
+Latest reconciliation: September 14, 2026 morning, native Scheduled tab loaded, selected, and empty before writing. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled; one contextual reply is recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
 
 ## Current candidates — September 7 relevance reset
 
@@ -107,3 +107,4 @@ RAT-009 and RAT-011 are published; RAT-010 is an older local alternate requiring
 - September 12 around 6:05 p.m.: RAT-009 showed 10 views and zero likes/replies/reposts, about 104h50m old; RAT-011 showed 7 views, 1 like, and zero replies/reposts, about 95h20m old. Bookmarks not displayed. Historical observations preserved; inspection may contribute views and no follower conversion is established.
 - September 13 around 9:21 a.m.: RAT-009 showed 11 views and zero likes/replies/reposts, about 120h06m old; RAT-011 showed 8 views, 1 like, and zero replies/reposts, about 110h36m old. Bookmarks not displayed. Historical observations preserved; inspection may contribute views and no follower conversion is established.
 - September 13 around 6:20 p.m.: RAT-009 showed 11 views and zero likes/replies/reposts, about 129h05m old; RAT-011 showed 9 views, 1 like, and zero replies/reposts, about 119h35m old. Bookmarks not displayed. Historical counts preserved; no follower-conversion claim.
+- September 14 around 10:45 a.m.: RAT-009 showed 11 views/0 likes and RAT-011 10 views/1 like, both zero replies/reposts. Bookmarks not displayed. Historical values retained; views may include inspection and do not establish follower conversion.
