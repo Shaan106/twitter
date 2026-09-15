@@ -301,7 +301,7 @@
     "reply_first_prompt_readback_verified": true
   },
   "last_session": "2026-09-14-pm-01",
-  "last_session_attempt": "2026-09-14-pm-01",
+  "last_session_attempt": "2026-09-15-am-01",
   "last_manual_run": "2026-09-09-reply-first",
   "completed_scheduled_slots": [
     "2026-09-08T18:00:00-07:00",
@@ -534,6 +534,22 @@
       "scheduled_slot_completed": true,
       "note": "Two individually composed contextual replies, each submitted once and verified in parent and own Replies. No original or follow selected; earlier incomplete slots not replayed. Local/Git closeout follows.",
       "log": "account/logs/2026-09-14-pm-01.md"
+    },
+    {
+      "id": "2026-09-15-am-01",
+      "slot": "2026-09-15T09:00:00-07:00",
+      "heartbeat_at": "2026-09-15T16:03:31.095Z",
+      "started_at": "2026-09-15T17:04:49Z",
+      "hard_stop_at": "2026-09-15T17:29:49Z",
+      "over_budget_detected_at": "2026-09-15T18:55:51Z",
+      "status": "stopped_time_budget_exceeded_before_browser",
+      "external_x_writes": 0,
+      "browser_access_attempted": false,
+      "current_account_verified": false,
+      "queue_or_publication_reconciled": false,
+      "scheduled_slot_completed": false,
+      "note": "Late start at 10:04:49 a.m. Pacific. Next clock read after local preflight was 11:55:51 a.m., past the 25-minute hard stop. This gap is not a claim of continuous editorial work; cause not established. No computer-use or X access attempted. Stopped rather than beginning external work; only minimal local/Git closeout followed. Historical observations remain dated September 14; do not replay this missed slot.",
+      "log": "account/logs/2026-09-15-am-01-interrupted.md"
     }
   ],
   "browser_access": {
@@ -803,6 +819,7 @@
     }
   ],
   "pending_actions": [
+    "September 15 morning attempt stopped before browser access when the next clock check was beyond the 25-minute window; slot incomplete, zero X actions. Do not replay it; reconcile current account, queue and replies at the next normal session",
     "September 14 evening slot complete; do not duplicate REP-010 or REP-011 or replay earlier incomplete slots",
     "RAT-007 is cancelled and rejected; never reschedule it",
     "RAT-009 and RAT-011 are verified public originals; never resubmit",
