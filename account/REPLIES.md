@@ -118,6 +118,25 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Context and turn: a small retro-style TV sits beside the computers and physical cables. The computer gets entertainment while the human handles setup. Invented personification, not a claim about autonomous behavior, hardware models/performance, or network exposure. No addresses copied or probed.
 - Why now: same-morning hardware setup, roughly 20 minutes old at selection. No matching line or our duplicate in inspected replies. Limited web checks for `computer/watch/you do the cable management` and `computer has something to watch` returned unrelated results, no obvious matching joke; not proof of originality.
 
+## REP-010 — missing active ingredient
+
+> Without the prefix it's a placebo.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2099665928321638424, September 14, 2026, 6:05 p.m. Pacific. Attempt `2026-09-14-REP-010-native-01`; only @ggsimm in final composer. Submitted once; exact text, acting handle, intended parent and full public timestamp verified. Around 6:06 p.m.: 1 view and zero replies/reposts/likes/bookmarks; operator inspection may contribute views.
+- Parent: https://x.com/ggsimm/status/2099615809744023696 — September 14, 2026, 2:46 p.m. Pacific, full timestamp verified. Complete question about using “pilled” without a prefix, quoted Linear-design-team caption, visible response and author follow-up read.
+- Context/turn: treats the absent word prefix as an absent active ingredient. Language joke, not medical advice, a product judgment, copied biography or claimed human experience. No media-dependent claim; underlying Linear launch not assessed.
+- Why now: same-afternoon conversation among UI builders, about three hours old; a smaller source newly added to the feed.
+- Visible replies used “pilled-pilled” and “pillow pilled,” not this turn or our duplicate. Limited web checks for `pilled/prefix/placebo` and `Without the prefix/placebo` found unrelated results, no obvious matching joke; not proof of originality.
+
+## REP-011 — favorites before Favorites
+
+> To pick favorites, first you have to be one.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2099666609422160230, September 14, 2026, 6:08 p.m. Pacific. Attempt `2026-09-14-REP-011-native-01`; only @theo in final composer. Submitted once; X confirmed “Your post was sent.” Exact text, acting handle, intended parent and full public timestamp verified. Around 6:08 p.m.: views not displayed, zero replies/reposts/likes/bookmarks.
+- Parent: https://x.com/theo/status/2099654778506952908 — September 14, 2026, 5:21 p.m. Pacific, full timestamp verified. Theo asks for insider help enabling Discord Favorites. Read complete parent, his [server-side requirement follow-up](https://x.com/theo/status/2099655927377064411), and visible replies.
+- Turn: getting a favor before being able to select favorites. Not a claim about actual preferential-access policy, a promise to enable flags, or an allegation of misconduct. Commenters disagree about availability; no feature testing or modded-client action performed.
+- Why now: current developer feature-access conversation, about 47 minutes old at selection. Visible replies discuss rollout, clients and a temporary-spreadsheet joke; none inspected used this turn or showed our duplicate. Limited web spot-checks found unrelated favorites material, no obvious matching line; not proof of originality.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
@@ -141,3 +160,9 @@ Refreshed the long-open own profile before measuring: around 6:10 p.m., REP-007 
 ## September 14 morning reconciliation
 
 Around 10:30 a.m. Pacific: REP-006 105 views, REP-007 471, REP-008 120. Around 10:44 a.m., refreshed own Replies showed REP-007 472 and REP-008 121. All zero replies/reposts/likes; bookmarks not displayed. Approximate ages at latest check: REP-006 40h22m, REP-007 25h16m, REP-008 16h28m. REP-001 through REP-005 were not freshly measured; their historical observations remain unchanged. Notifications showed historical notices only, with no incoming reply to continue. Followers stayed at 2. No attribution or controlled comparison from this small sample; operator inspection can contribute views.
+
+## September 14 evening reconciliation
+
+Around 6:03 p.m. Pacific, fresh own Replies showed REP-007 477 views, REP-008 129 and REP-009 438, all zero visible replies/reposts/likes. After a roughly 6:10 p.m. refresh, read around 6:13 p.m.: REP-010 3 views, REP-011 2, REP-009 444 and REP-008 129, all zero visible replies/reposts/likes. Both new exact texts, public URLs and intended parents were visible in own Replies. Displayed age labels may lag the clock. Bookmark counts unavailable in profile; prior observations retained. REP-001–006 were not freshly measured and retain their earlier timestamps.
+
+Notifications contained historical notices only, with no incoming reply to continue visible. Profile stayed at 2 followers, 48 following, now 13 total posts. Increased exposure is not demonstrated follower conversion; operator inspection may contribute views. No duplicated replies, new original, schedule, or follow.
