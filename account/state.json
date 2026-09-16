@@ -302,7 +302,7 @@
     "reply_first_prompt_readback_verified": true
   },
   "last_session": "2026-09-15-pm-01",
-  "last_session_attempt": "2026-09-15-pm-01",
+  "last_session_attempt": "2026-09-16-am-01",
   "last_manual_run": "2026-09-09-reply-first",
   "completed_scheduled_slots": [
     "2026-09-08T18:00:00-07:00",
@@ -574,6 +574,22 @@
       "scheduled_slot_completed": true,
       "note": "One individually composed reply to the current fast-mode conversation submitted once and verified. First recorded like on REP-010 corroborated in notifications; no incoming reply or follower increase observed. No follow or original selected; missed morning and earlier incomplete slots not replayed. Local/Git closeout follows.",
       "log": "account/logs/2026-09-15-pm-01.md"
+    },
+    {
+      "id": "2026-09-16-am-01",
+      "slot": "2026-09-16T09:00:00-07:00",
+      "heartbeat_at": "2026-09-16T16:01:00.638Z",
+      "started_at": "2026-09-16T16:01:13Z",
+      "hard_stop_at": "2026-09-16T16:26:13Z",
+      "over_budget_detected_at": "2026-09-16T17:19:35Z",
+      "status": "stopped_time_budget_exceeded_before_browser",
+      "external_x_writes": 0,
+      "browser_access_attempted": false,
+      "current_account_verified": false,
+      "queue_or_publication_reconciled": false,
+      "scheduled_slot_completed": false,
+      "note": "Next clock check after local preflight was 10:19:35 a.m. Pacific, beyond the 25-minute hard stop. The elapsed gap is not a claim of continuous editorial work; cause not established. No browser or X access attempted. Only minimal local/Git closeout followed. September 15 evening observations remain historical. Do not replay this missed slot.",
+      "log": "account/logs/2026-09-16-am-01-interrupted.md"
     }
   ],
   "browser_access": {
@@ -865,6 +881,7 @@
     }
   ],
   "pending_actions": [
+    "September 16 morning attempt stopped before browser access after the next clock check exceeded the 25-minute window; slot incomplete, zero X actions. Do not replay it. Reconcile acting account, native queue and replies at the next normal session; September 15 counts are not a fresh check",
     "September 15 evening slot complete; do not duplicate REP-012 or replay the missed morning or earlier incomplete slots",
     "RAT-007 is cancelled and rejected; never reschedule it",
     "RAT-009 and RAT-011 are verified public originals; never resubmit",
