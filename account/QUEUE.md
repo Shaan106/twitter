@@ -2,9 +2,9 @@
 
 The user rejected isolated humor on September 7. Current candidates must have verified tech/startup context and a "why now." Scheduled status requires an X receipt and is separate from verified publication.
 
-Latest reconciliation: September 14, 2026 evening, native Scheduled tab loaded, selected, and empty before writing. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled; two contextual replies are recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
+Latest reconciliation: September 15, 2026 evening, native Scheduled tab loaded, selected, and empty before writing. RAT-009 and RAT-011 remained visible on the public profile. No new original selected or scheduled; one contextual reply is recorded separately in `REPLIES.md`. Do not resubmit prior publications or revive rejected RAT-007.
 
-September 15 morning attempt ended before browser access when the next clock read was beyond the session's 25-minute limit. No current Scheduled/publication check and no X writes occurred. The latest reconciliation above remains dated September 14; never infer a fresh empty queue or resubmit prior publications from this interruption.
+September 15 morning attempt ended before browser access when the next clock read was beyond the session's 25-minute limit. No morning Scheduled/publication check or X writes occurred. At that time, the most recent reconciliation was September 14; the evening check above subsequently superseded it. Never infer a fresh empty queue or resubmit prior publications from the morning interruption.
 
 ## Current candidates — September 7 relevance reset
 
@@ -111,3 +111,4 @@ RAT-009 and RAT-011 are published; RAT-010 is an older local alternate requiring
 - September 13 around 6:20 p.m.: RAT-009 showed 11 views and zero likes/replies/reposts, about 129h05m old; RAT-011 showed 9 views, 1 like, and zero replies/reposts, about 119h35m old. Bookmarks not displayed. Historical counts preserved; no follower-conversion claim.
 - September 14 around 10:45 a.m.: RAT-009 showed 11 views/0 likes and RAT-011 10 views/1 like, both zero replies/reposts. Bookmarks not displayed. Historical values retained; views may include inspection and do not establish follower conversion.
 - September 14 around 6:13 p.m., own Posts loaded around 6:10 p.m.: RAT-009 11 views/0 likes and RAT-011 11 views/1 like, both zero replies/reposts. Bookmarks not displayed. Prior values preserved; no follower-conversion attribution.
+- September 15 around 6:10 p.m.: RAT-009 12 views/0 likes and RAT-011 13 views/1 like, both zero replies/reposts. Bookmarks not displayed. Historical observations preserved; operator inspection may contribute views, with no follower-conversion claim.

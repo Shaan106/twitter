@@ -137,6 +137,15 @@ Enabled by Shaan on September 9, 2026 as the primary discovery experiment. This 
 - Turn: getting a favor before being able to select favorites. Not a claim about actual preferential-access policy, a promise to enable flags, or an allegation of misconduct. Commenters disagree about availability; no feature testing or modded-client action performed.
 - Why now: current developer feature-access conversation, about 47 minutes old at selection. Visible replies discuss rollout, clients and a temporary-spreadsheet joke; none inspected used this turn or showed our duplicate. Limited web spot-checks found unrelated favorites material, no obvious matching line; not proof of originality.
 
+## REP-012 — cooling the loading indicator
+
+> Eventually the loading spinner will need a heatsink.
+
+- Status: **published and verified** at https://x.com/Stochastic_rat/status/2100030103929725410, September 15, 2026, 6:12 p.m. Pacific. Attempt `2026-09-15-REP-012-native-01`; final recipient only @ThePrimeagen. Submitted once; initial loading state resolved by reading the resulting conversation, not resending. Exact text, acting handle, parent and full public timestamp verified. Around 6:13 p.m.: 1 view, zero replies/reposts/likes/bookmarks; operator inspection may contribute views.
+- Parent: https://x.com/ThePrimeagen/status/2100010208269406533 — September 15, 2026, 4:53 p.m. Pacific, full timestamp verified. Full text hopes for Grok 4.7 fast mode followed by faster mode. Read the [author's Jev follow-up](https://x.com/ThePrimeagen/status/2100027292126781937) and bounded visible replies.
+- Turn: imagines the loading indicator as a physical spinning component needing cooling. Obvious fictional consequence, not a model-release/benchmark claim or a report of actual interface/hardware behavior. No claim from uninspected videos or GIFs.
+- Why now: same-evening developer speed-mode discussion, roughly 80 minutes old at selection. Visible replies include Spaceballs/ludicrous speed, plaid, recursive faster modes, inverted names and zoomies; no matching heatsink line or our duplicate seen. Limited distinctive-wording web checks returned unrelated hardware support/product material, no obvious match; not proof of originality.
+
 ## September 11 evening reconciliation
 
 Refreshed the account Replies page before recording counts; the long-open page initially had stale values. Around 6:04 p.m. Pacific: REP-001 27 views, REP-002 482, REP-003 19, REP-004 3. All had zero visible replies/reposts/likes; bookmarks not displayed. REP-003 was about 6h42m old and REP-004 about 6h37m old. Historical observations are preserved in state. The profile remained at 2 followers, so these counts do not establish follower conversion or a dependable large-account reply advantage. Visible notifications contained no incoming reply requiring a response.
@@ -166,3 +175,9 @@ Around 10:30 a.m. Pacific: REP-006 105 views, REP-007 471, REP-008 120. Around 1
 Around 6:03 p.m. Pacific, fresh own Replies showed REP-007 477 views, REP-008 129 and REP-009 438, all zero visible replies/reposts/likes. After a roughly 6:10 p.m. refresh, read around 6:13 p.m.: REP-010 3 views, REP-011 2, REP-009 444 and REP-008 129, all zero visible replies/reposts/likes. Both new exact texts, public URLs and intended parents were visible in own Replies. Displayed age labels may lag the clock. Bookmark counts unavailable in profile; prior observations retained. REP-001–006 were not freshly measured and retain their earlier timestamps.
 
 Notifications contained historical notices only, with no incoming reply to continue visible. Profile stayed at 2 followers, 48 following, now 13 total posts. Increased exposure is not demonstrated follower conversion; operator inspection may contribute views. No duplicated replies, new original, schedule, or follow.
+
+## September 15 evening reconciliation
+
+Fresh own Replies around 6:10 p.m. Pacific showed REP-008 136 views, REP-009 720, REP-010 37 with 1 like, and REP-011 374; all zero replies/reposts, other three zero likes. Same counts at the roughly 6:13 p.m. final check. REP-012 showed exact text and intended parent, 1 view and zero replies/reposts/likes, UI age 26 seconds. Bookmark counts unavailable in profile. Prior observations preserved; REP-001–007 not freshly measured.
+
+All notifications explicitly showed @jakedowns liked the placebo reply, with a 20h age label; exact event timestamp unknown. First recorded like on a project reply, not an incoming conversational response. Inspected his profile/current video captions but not the videos; no follow or unsolicited message. Followers remained at 2, following 48, now 14 total posts. One like and differing view counts do not establish conversion; operator inspection may affect views.
